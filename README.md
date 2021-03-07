@@ -1,2 +1,10 @@
 # Jcode
-A language for Human Hackers
+A intutive domain language, integrated with domainal frameworks.
+
+# Application
+
+- Automatic process
+- Communication protocol
+- Engine command
+- GUI layout
+
