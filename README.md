@@ -1,5 +1,5 @@
 # Jcode
-A intutive domain language, integrated with domainal frameworks.
+An intutive domain language, integrated with domainal frameworks.
 
 # Application
 
@@ -7,4 +7,5 @@ A intutive domain language, integrated with domainal frameworks.
 - Communication protocol
 - Engine command
 - GUI layout
+- GUI robot
 
